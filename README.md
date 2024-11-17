@@ -11,4 +11,4 @@
 
 ![Plot2](/data/output1.png "График 2")
 
-## [Ссылка на jupiter ноутбук](https://github.com/MrSo0der/hse24_hw3/tree/main/src)
+## [Ссылка на jupiter ноутбук](https://github.com/MrSo0der/hse24_hw3/blob/main/src/hw3.ipynb)
